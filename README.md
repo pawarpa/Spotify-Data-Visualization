@@ -1,6 +1,6 @@
 # Spotify-Data-Visualization
-
-Visualized Spotify data for all available countries and dates prior to July 1st, 2019
+Check the visualizations on [Tableau Public](https://public.tableau.com/views/Spotify_Daily_Streaming_Visualization/Popularity?:language=en-US&:display_count=n&:origin=viz_share_link).
+Visualized Spotify data for all available countries from January 2017 to July 2019
 
 ## Tableau Dashboards
 <br>
