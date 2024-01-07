@@ -16,4 +16,3 @@ Visualized Spotify data for all available countries and dates prior to July 1st,
 ## Reference 
 - https://charts.spotify.com/home
 - https://www.tableau.com/blog/how-visualize-spotify-music-trends-tableau
-- 
